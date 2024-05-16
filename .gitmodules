@@ -1,0 +1,3 @@
+[submodule "neovim-tmux-navigator"]
+	path = neovim-tmux-navigator
+	url = https://github.com/Leenuus/neovim-tmux-navigator
